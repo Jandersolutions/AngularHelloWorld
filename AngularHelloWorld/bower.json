@@ -1,0 +1,21 @@
+{
+    "name": "AngularHelloWorld",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "bootstrap":"*",
+        "font-awesome" : "*",
+        "jquery" : "*",
+        "bootswatch" : "*",
+        "angular"    : "*",
+        "angular-cookie" : "*",
+        "angular-resource" : "*",
+        "angular-route" : "*"
+    },
+    "devDependencies": {
+    }
+}
